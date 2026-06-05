@@ -1,6 +1,23 @@
 html{
-    background-color:rgb(208, 255, 0);
+    background-color:rgb(179, 255, 0);
 }
 body{
-    background-color:rgb(255, 0, 128);
+  margin: 0;
+  min-height: 100vh;
+  background-image: linear-gradient(180deg, #ff0077 0%, #c8ff00 100%);
+  background-repeat: no-repeat;
+  text-align:center;
+  font-family: cursive;
+  color:rgb(0, 255, 213)
+
+}
+
+h1{
+    color:blue;
+    font-family:cursive;
+    text-align:center;
+
+}
+img{
+    border: 10px solid rgb(179, 255, 0);
 }
